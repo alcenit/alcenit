@@ -13,7 +13,21 @@ $${\color{lightgreen}Fullstack \space \color{lightgreen}Developer \space \color{
   </span>
 </h1>
 <br/>
+<h3 align="center">
+  <span style="color: #3CB371; font-weight: 600;">
+   joining(uniting) architectural, language and code perspectives
+  </span>
+</h3>
 
+<p align="center">
+  |<strong>Design+Languaje → ++ Developer</strong> |
+</p>
+  
+✨ <strong>Trained eye UX/UI</strong>   
+✨ <strong>Languajes and codes mixed</strong>   
+✨ <strong> iterative view</strong>   
+
+"(Design of (digital) or (physical) objects) and (problems are solved)."
 
 
 
