@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mauricio Maciel</h1>
-<h3 align="center">fullstack developer from Argentina</h3>
+<h1 align="center" style="color: rgba(0, 0, 255, 0.7);">Hi 👋, I'm Mauricio Maciel</h1>
+<h3 align="center" style="color: rgba(0, 0, 255, 0.7);">fullstack developer from Argentina</h3>
 
 
 - 🔭 I’m currently working on **Java proyect**
