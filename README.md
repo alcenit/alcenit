@@ -1,8 +1,24 @@
-$${\color{red}Hi 👋, I'm Mauricio Maciel}$$
+$${\color{lightgreen}Welcome \space \color{lightgreen}To \space \color{lightgreen}MyGithub}$$
+$${\space \}$$
 
-<h1 style="color: #0000FF;" align="center" >Hi 👋, I'm Mauricio Maciel</h1>
-<h3 style="color: #0000FF;"  align="center" >fullstack developer from Argentina</h3>
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{lightgreen}Fullstack \space \color{lightgreen}Developer \space \color{lightgreen}From\space \color{lightgreen}Argentina}$$
+<h1 align="center">
+  <span style="color: #90EE90; 
+              font-size: 2em;
+              letter-spacing: 1px;
+              font-weight: 600;
+              display: inline-block;
+              padding: 0 10px;">
+    Hi 👋 &nbsp; I'm &nbsp; Mauricio &nbsp; Maciel
+  </span>
+</h1>
+<br/>
+
+
+
+
+
+
 
 - 🔭 I’m currently working on **Java proyect**
 
@@ -51,4 +67,4 @@ You can click the Preview link to take a look at your changes.
 --->
   
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
