@@ -49,5 +49,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Markdown:   
 
-```python
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
