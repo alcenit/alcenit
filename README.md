@@ -40,7 +40,7 @@ $${\color{lightgreen}Fullstack \space \color{lightgreen}Developer \space \color{
 
 - 📫 How to reach me **mauriciomaciel.dev@gmail.com**
 
--  👂🏻 Pronuns : "mow-ree-syoh" or "Maurice" It's fine too.🤙🏻
+-  🗣👂🏻 Pronuns : "mow-ree-syoh" or "Maurice" It's fine too.🤙🏻
 
 - ⚡ Fun fact **Not so much description is necessary !!!!**
 
