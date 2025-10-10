@@ -65,7 +65,7 @@ $${\color{lightgreen}Fullstack \space \color{lightgreen}Developer \space \color{
  <img src="https://raw.githubusercontent.com/alcenit/util/main/assets/icons/python-original.svg" alt="python" width="40" height="40" style="margin: 0 20px;"/> 
  <img src="https://raw.githubusercontent.com/alcenit/util/main/assets/icons/selenium-original.svg" alt="selenium" width="40" height="40" style="margin: 0 20px;"/> 
  <img src="https://raw.githubusercontent.com/alcenit/util/main/assets/icons/figma-original.svg" alt="figma" width="40" height="40" style="margin: 0 20px;"/>
- <img src="https://raw.githubusercontent.com/alcenit/util/main/assets/icons/cypressio-original.svg" alt="cypress" width="40" height="40" style="margin: 0 20px;" class="icono-claro"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-plain.svg" alt="cypress" width="40" height="40" style="margin: 0 20px;"/>
  <img src="https://raw.githubusercontent.com/alcenit/util/main/assets/icons/illustrator-plain.svg" alt="illustrator" width="40" height="40" style="margin: 0 20px;"/> 
 </p>
 
@@ -76,10 +76,5 @@ $${\color{lightgreen}Fullstack \space \color{lightgreen}Developer \space \color{
 alcenit/alcenit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  .icono-claro {
-    filter: brightness(0) invert(1);
-  }
-</style>  
 
 
