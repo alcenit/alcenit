@@ -60,68 +60,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcenit&show_icons=true&locale=en&layout=compact" alt="alcenit" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alcenit&label=Profile%20views&color=0e75b6&style=flat" alt="alcenit" /> </p>
 
-<!-- Animated dots -->
-<div align="center">
-  <div class="dots-container">
-    <span class="dot-color dot-1"></span>
-    <span class="dot-color dot-2"></span>
-    <span class="dot-color dot-3"></span>
-    <span class="dot-color dot-4"></span>
-    <span class="dot-color dot-5"></span>
-    <span class="dot-color dot-6"></span>
-    <span class="dot-color dot-7"></span>
-    <span class="dot-color dot-8"></span>
-  </div>
-</div>
 
-<!---
-alcenit/alcenit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<style>
-  /* Contenedor para centrar los puntos */
-  .dots-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 8px; /* Espacio entre los puntos */
-    margin: 20px 0; /* Añade espacio arriba y abajo */
-    height: 20px; /* Asegura que el contenedor tenga altura */
-  }
-
-  /* Estilo base para cada punto de color */
-  .dot-color {
-    width: 12px;
-    height: 12px;
-    background-color: #3CB371; /* Un verde que combina con tu perfil */
-    border-radius: 50%;
-    opacity: 0.2;
-    box-shadow: 0 0 5px #3CB371; /* Añade un brillo sutil */
-    display: inline-block; /* Asegura que el punto sea visible */
-  }
-
-  /* Definición de la animación de parpadeo */
-  @keyframes flicker {
-    0%, 100% {
-      opacity: 0.2;
-      transform: scale(1);
-    }
-    50% {
-      opacity: 1;
-      transform: scale(1.1); /* Añade un ligero aumento de tamaño */
-    }
-  }
-
-  /* Aplicamos la animación a cada punto con valores diferentes */
-  .dot-1 { animation: flicker 1.5s infinite 0.2s; }
-  .dot-2 { animation: flicker 2s infinite 0.5s; }
-  .dot-3 { animation: flicker 1.8s infinite 0.1s; }
-  .dot-4 { animation: flicker 2.2s infinite 0.8s; }
-  .dot-5 { animation: flicker 1.4s infinite 1.1s; }
-  .dot-6 { animation: flicker 2.5s infinite 0.3s; }
-  .dot-7 { animation: flicker 1.7s infinite 1.5s; }
-  .dot-8 { animation: flicker 1.9s infinite 0.7s; }
-</style>
 
 
