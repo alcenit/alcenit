@@ -16,13 +16,17 @@
               font-weight: 600;
               display: inline-block;
               padding: 0 10px;">
-     Mauricio &nbsp; Maciel
+     𝐌𝐀𝐔𝐑𝐈𝐂𝐈𝐎 &nbsp; 𝐌𝐀𝐂𝐈𝐄𝐋
   </span>
+  <br/><br/>
 </h1>
+
 <!-- Contenedor principal para el texto parpadeante -->
-<!-- Contenedor principal para el texto parpadeante -->
-<div class="flickering-text-container">
-  <div class="flickering-text">
+<div class="flickering-text-container"align="center">
+  <div class="flickering-text" display: inline-block;
+    animation-name: flicker;
+    animation-iteration-count: infinite;
+    animation-timing>
     <span class="letter" style="animation-duration: 2.5s; animation-delay: 0.1s;">j</span>
     <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.5s;">o</span>
     <span class="letter" style="animation-duration: 2.2s; animation-delay: 1.1s;">i</span>
@@ -30,7 +34,7 @@
     <span class="letter" style="animation-duration: 1.9s; animation-delay: 1.5s;">i</span>
     <span class="letter" style="animation-duration: 3.3s; animation-delay: 0.8s;">n</span>
     <span class="letter" style="animation-duration: 2.6s; animation-delay: 0.3s;">g</span>
-    <span class="letter" style="animation-duration: 2.6s; animation-delay: 0.3s;"> </span>
+    <span class="letter" style="animation-duration: 2.6s; animation-delay: 0.3s;">✦</span>
     <span class="letter" style="animation-duration: 2.1s; animation-delay: 1.8s;">(</span>
     <span class="letter" style="animation-duration: 2.9s; animation-delay: 0.6s;">u</span>
     <span class="letter" style="animation-duration: 2.4s; animation-delay: 1.2s;">n</span>
@@ -40,10 +44,10 @@
     <span class="letter" style="animation-duration: 3.2s; animation-delay: 1.3s;">n</span>
     <span class="letter" style="animation-duration: 2.0s; animation-delay: 0.7s;">g</span>
     <span class="letter" style="animation-duration: 2.5s; animation-delay: 1.7s;">)</span>
-    <span class="letter" style="animation-duration: 2.8s; animation-delay: 0.0s;"> </span>
+    <span class="letter" style="animation-duration: 2.8s; animation-delay: 0.0s;">✦ </span>
     <span class="letter" style="animation-duration: 3.1s; animation-delay: 1.0s;">a</span>
     <span class="letter" style="animation-duration: 2.2s; animation-delay: 1.4s;">r</span>
-    <span class="letter" style="animation-duration: 2.6s; animation-delay: 0.5s;">c</span>
+    <span class="letter" style="animation-duration: 2.6s; animation-delay: 0.5s;">[c]</span>
     <span class="letter" style="animation-duration: 2.9s; animation-delay: 1.1s;">h</span>
     <span class="letter" style="animation-duration: 2.1s; animation-delay: 0.2s;">i</span>
     <span class="letter" style="animation-duration: 3.3s; animation-delay: 1.8s;">t</span>
@@ -54,7 +58,7 @@
     <span class="letter" style="animation-duration: 2.5s; animation-delay: 0.9s;">r</span>
     <span class="letter" style="animation-duration: 2.2s; animation-delay: 1.2s;">a</span>
     <span class="letter" style="animation-duration: 2.8s; animation-delay: 0.4s;">l</span>
-    <span class="letter" style="animation-duration: 2.3s; animation-delay: 1.5s;">  </span>
+    <span class="letter" style="animation-duration: 2.3s; animation-delay: 1.5s;">✦   </span>
     <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.7s;">  </span>
     <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.7s;">  </span>
     <span class="letter" style="animation-duration: 2.6s; animation-delay: 1.0s;">l</span>
@@ -65,17 +69,17 @@
     <span class="letter" style="animation-duration: 2.7s; animation-delay: 0.2s;">a</span>
     <span class="letter" style="animation-duration: 2.0s; animation-delay: 1.4s;">g</span>
     <span class="letter" style="animation-duration: 3.0s; animation-delay: 0.8s;">e</span>
-    <span class="letter" style="animation-duration: 2.5s; animation-delay: 1.1s;">  </span>
-    <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.7s;">  </span>
+    <span class="letter" style="animation-duration: 2.5s; animation-delay: 1.1s;">✦</span>
+    <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.7s;"> </span>
     <span class="letter" style="animation-duration: 2.2s; animation-delay: 1.9s;">a</span>
     <span class="letter" style="animation-duration: 2.8s; animation-delay: 0.3s;">n</span>
     <span class="letter" style="animation-duration: 2.3s; animation-delay: 1.6s;">d</span>
-    <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.5s;"> </span>
+    <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.5s;">✦</span>
     <span class="letter" style="animation-duration: 2.6s; animation-delay: 1.2s;">c</span>
-    <span class="letter" style="animation-duration: 2.9s; animation-delay: 0.9s;">o</span>
-    <span class="letter" style="animation-duration: 2.1s; animation-delay: 1.5s;">d</span>
+    <span class="letter" style="animation-duration: 2.9s; animation-delay: 0.9s;">[o]</span>
+    <span class="letter" style="animation-duration: 2.1s; animation-delay: 1.5s;">[d]</span>
     <span class="letter" style="animation-duration: 3.3s; animation-delay: 0.4s;">e</span>
-    <span class="letter" style="animation-duration: 2.4s; animation-delay: 1.8s;"> </span>
+    <span class="letter" style="animation-duration: 2.4s; animation-delay: 1.8s;">✦</span>
     <span class="letter" style="animation-duration: 2.7s; animation-delay: 0.7s;">p</span>
     <span class="letter" style="animation-duration: 2.0s; animation-delay: 1.0s;">e</span>
     <span class="letter" style="animation-duration: 3.0s; animation-delay: 0.1s;">r</span>
@@ -86,19 +90,22 @@
     <span class="letter" style="animation-duration: 3.1s; animation-delay: 0.6s;">t</span>
     <span class="letter" style="animation-duration: 2.6s; animation-delay: 1.1s;">i</span>
     <span class="letter" style="animation-duration: 2.9s; animation-delay: 0.8s;">v</span>
-    <span class="letter" style="animation-duration: 2.1s; animation-delay: 1.4s;">e</span>
+    <span class="letter" style="animation-duration: 2.1s; animation-delay: 1.4s;">[e]</span>
     <span class="letter" style="animation-duration: 3.2s; animation-delay: 0.5s;">s</span>
   </div>
 </div>
-
+<br/>
 
 
 <p align="center">
   |<strong>Design+Languaje → ++ Developer</strong> |
 </p>
+<br/>
+
 <p align="center">
-  <<<<|<strong>FullStack Developer</strong> |>>>>
+                                    【f 】【 u 】【 l 】【 l 】【 s 】【 t 】【 a 】【 c 】【 k】【 】【d 】【 e 】【 v 】【 e 】【 l 】【 o 】【 p 】【 e 】【 r】
 </p>
+<br/><br/><br/>
   
 ✨ <strong>Trained eye UX/UI</strong>   
 ✨ <strong>Languajes and codes mixed</strong>   
@@ -106,7 +113,8 @@
 
 "(Design of (digital) or (physical) objects) and (problems are solved)."
 
-- 🔭 I'm currently working on **Java project**
+
+- 🔭 I'm currently working on **Java project** ⓜ
 
 - 🌱 I'm currently learning **Java**
 
