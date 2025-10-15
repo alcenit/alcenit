@@ -166,6 +166,6 @@
     animation-iteration-count: infinite;
     animation-timing
 
-
+</style>
 
 
