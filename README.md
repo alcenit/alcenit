@@ -113,7 +113,6 @@
 </div>
 <br/>
 
-
 <p align="center">
   |<strong>Design+Languaje → ++ Developer</strong> |
 </p>
@@ -191,6 +190,41 @@
     animation-iteration-count: infinite;
     animation-timing
 
+<pre style="text-align: center;"><code>
+                                                                                  iiii                        iiii                                                                                        iiii
+                                                                                 i::::i                      i::::i                                                                                      i::::i                     
+                                                                                  iiii                        iiii                                                                                        iiii                       
+                                                                                                                                                                                                                                     
+   mmmmmmm    mmmmmmm     aaaaaaaaaaaaa   uuuuuu    uuuuuu  rrrrr   rrrrrrrrr   iiiiiii     cccccccccccccccciiiiiii    ooooooooooo           mmmmmmm    mmmmmmm     aaaaaaaaaaaaa       cccccccccccccccciiiiiii     eeeeeeeeeeee      
+ mm:::::::m  m:::::::mm   a::::::::::::a  u::::u    u::::u  r::::rrr:::::::::r  i:::::i   cc:::::::::::::::ci:::::i  oo:::::::::::oo       mm:::::::m  m:::::::mm   a::::::::::::a    cc:::::::::::::::ci:::::i   ee::::::::::::ee    
+m::::::::::mm::::::::::m  aaaaaaaaa:::::a u::::u    u::::u  r:::::::::::::::::r  i::::i  c:::::::::::::::::c i::::i o:::::::::::::::o     m::::::::::mm::::::::::m  aaaaaaaaa:::::a  c:::::::::::::::::c i::::i  e::::::eeeee:::::ee  
+m::::::::::::::::::::::m           a::::a u::::u    u::::u  rr::::::rrrrr::::::r i::::i c:::::::cccccc:::::c i::::i o:::::ooooo:::::o     m::::::::::::::::::::::m           a::::a c:::::::cccccc:::::c i::::i e::::::e     e:::::e  
+m:::::mmm::::::mmm:::::m    aaaaaaa:::::a u::::u    u::::u   r:::::r     r:::::r i::::i c::::::c     ccccccc i::::i o::::o     o::::o     m:::::mmm::::::mmm:::::m    aaaaaaa:::::a c::::::c     ccccccc i::::i e:::::::eeeee::::::e  
+m::::m   m::::m   m::::m  aa::::::::::::a u::::u    u::::u   r:::::r     rrrrrrr i::::i c:::::c              i::::i o::::o     o::::o     m::::m   m::::m   m::::m  aa::::::::::::a c:::::c              i::::i e:::::::::::::::::e   
+m::::m   m::::m   m::::m a::::aaaa::::::a u::::u    u::::u   r:::::r             i::::i c:::::c              i::::i o::::o     o::::o     m::::m   m::::m   m::::m a::::aaaa::::::a c:::::c              i::::i e::::::eeeeeeeeeee    
+m::::m   m::::m   m::::ma::::a    a:::::a u:::::uuuu:::::u   r:::::r             i::::i c::::::c     ccccccc i::::i o::::o     o::::o     m::::m   m::::m   m::::ma::::a    a:::::a c::::::c     ccccccc i::::i e:::::::e            
+m::::m   m::::m   m::::ma::::a    a:::::a u:::::::::::::::uu r:::::r            i::::::ic:::::::cccccc:::::ci::::::io:::::ooooo:::::o     m::::m   m::::m   m::::ma::::a    a:::::a c:::::::cccccc:::::ci::::::ie::::::::e          
+m::::m   m::::m   m::::ma:::::aaaa::::::a  u:::::::::::::::u r:::::r            i::::::i c:::::::::::::::::ci::::::io:::::::::::::::o     m::::m   m::::m   m::::ma:::::aaaa::::::a  c:::::::::::::::::ci::::::i e::::::::eeeeeeee  
+m::::m   m::::m   m::::m a::::::::::aa:::a  uu::::::::uu:::u r:::::r            i::::::i  cc:::::::::::::::ci::::::i oo:::::::::::oo      m::::m   m::::m   m::::m a::::::::::aa:::a  cc:::::::::::::::ci::::::i  ee:::::::::::::e  
+mmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa    uuuuuuuu  uuuu rrrrrrr            iiiiiiii    cccccccccccccccciiiiiiii   ooooooooooo        mmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa    cccccccccccccccciiiiiiii    eeeeeeeeeeeeee  
+
+ lllllll  
+ l:::::l
+ l:::::l
+ l:::::l
+  l::::l
+  l::::l
+  l::::l
+  l::::l
+  l::::l
+  l::::l
+ l::::::l
+ l::::::l
+ l::::::l
+ llllllll 
+   
+</code></pre>
 -->
+
 
 
