@@ -1,4 +1,14 @@
-
+<h1 align="center">
+  <span style="color: #90EE90; 
+              font-size: 2em;
+              letter-spacing: 1px;
+              font-weight: 600;
+              display: inline-block;
+              padding: 0 10px;">
+   01101000  01101001  01110111  01100101  01101100  01100011  01101111  01101101  01100101👋 &nbsp; 
+  </span>
+</h1
+ <br/><br/>     
 <pre style="text-align: center;"><code>
 
      
@@ -21,16 +31,7 @@
 </code></pre>
                                        
 
-<h1 align="center">
-  <span style="color: #90EE90; 
-              font-size: 2em;
-              letter-spacing: 1px;
-              font-weight: 600;
-              display: inline-block;
-              padding: 0 10px;">
-   01101000  01101001  01110111  01100101  01101100  01100011  01101111  01101101  01100101👋 &nbsp; 
-  </span>
-</h1>
+>
  
   
   <br/><br/><br/>
