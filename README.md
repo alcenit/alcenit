@@ -133,7 +133,7 @@
 
 -  🗣👂🏻 "maw-ree-syoh" or "Maurice" .🤙🏻
 
-- ⚡ Fun fact **Not so much description is necessary !!!!**
+- ⚡ ̶̶F̶̶u̶̶n̶̶ ̶̶f̶̶a̶̶c̶̶t̶̶ N̶̶o̶̶t̶̶ ̶̶s̶̶o̶̶ ̶̶m̶̶u̶̶c̶̶h̶̶ ̶̶d̶̶e̶̶s̶̶c̶̶r̶̶i̶̶p̶̶t̶̶i̶̶o̶̶n̶̶ ̶̶i̶̶s̶̶ ̶̶n̶̶e̶̶c̶̶e̶̶s̶̶s̶̶a̶̶r̶̶y̶̶ ̶̶!̶̶!̶̶!̶̶!̶̶   
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
