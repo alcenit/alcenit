@@ -36,7 +36,9 @@
  
   
   <br/><br/><br/>
-
+<p align="center">
+                                    【  f  u  l  l  s  t  a  c  k  】 【  d  e  v  e  l  o  p  e  r  】
+</p>
 
 <!-- Contenedor principal para el texto parpadeante -->
 <div class="flickering-text-container"align="center">
@@ -118,9 +120,7 @@
 </p>
 <br/>
 
-<p align="center">
-                                    【f 】【 u 】【 l 】【 l 】【 s 】【 t 】【 a 】【 c 】【 k】【 】【d 】【 e 】【 v 】【 e 】【 l 】【 o 】【 p 】【 e 】【 r】
-</p>
+
 <br/><br/><br/>
   
 ✨ <strong>Trained eye UX/UI</strong>   
