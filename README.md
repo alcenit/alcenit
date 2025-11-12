@@ -132,7 +132,7 @@
 
 - 🔭 I'm currently working on **Java project** ⓜ
 
-- 🌱 I'm currently learning **Java**
+- 🌱 Practice in  **Java**++
 
 - 📫 How to reach me **mauriciomaciel.dev@gmail.com**
 
