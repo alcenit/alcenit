@@ -123,7 +123,11 @@
 
 <br/><br/><br/>
   
- <strong>Trained eye UX/UI</strong>    <strong>Languajes and codes mixed</strong>    <strong> iterative view</strong>   
+ <strong>Trained eye UX/UI</strong> 
+ 
+ <strong>Languajes and codes mixed</strong> 
+ 
+ <strong> iterative view</strong>   
 
 "(Design of (digital) or (physical) objects) and (problems are solved)."
 
