@@ -123,22 +123,20 @@
 
 <br/><br/><br/>
   
-✨ <strong>Trained eye UX/UI</strong>   
-✨ <strong>Languajes and codes mixed</strong>   
-✨ <strong> iterative view</strong>   
+ <strong>Trained eye UX/UI</strong>    <strong>Languajes and codes mixed</strong>    <strong> iterative view</strong>   
 
 "(Design of (digital) or (physical) objects) and (problems are solved)."
 
 
-- 🔭 I'm currently working on **Java project** ⓜ
+-  I'm currently working on **Java project** ⓜ
 
-- 🌱 Practice in  **Java**++
+-  Practice in  **Java**++
 
-- 📫 How to reach me **mauriciomaciel.dev@gmail.com**
+-  How to reach me **mauriciomaciel.dev@gmail.com**
 
 -  🗣👂🏻 "maw-ree-syoh" or "Maurice" .🤙🏻
 
-- ⚡ ̶̶F̶̶u̶̶n̶̶ ̶̶f̶̶a̶̶c̶̶t̶̶ N̶̶o̶̶t̶̶ ̶̶s̶̶o̶̶ ̶̶m̶̶u̶̶c̶̶h̶̶ ̶̶d̶̶e̶̶s̶̶c̶̶r̶̶i̶̶p̶̶t̶̶i̶̶o̶̶n̶̶ ̶̶i̶̶s̶̶ ̶̶n̶̶e̶̶c̶̶e̶̶s̶̶s̶̶a̶̶r̶̶y̶̶ ̶̶!̶̶!̶̶!̶̶!̶̶   
+-  ̶̶F̶̶u̶̶n̶̶ ̶̶f̶̶a̶̶c̶̶t̶̶    N̶̶o̶̶t̶̶ ̶̶s̶̶o̶̶ ̶̶m̶̶u̶̶c̶̶h̶̶ ̶̶d̶̶e̶̶s̶̶c̶̶r̶̶i̶̶p̶̶t̶̶i̶̶o̶̶n̶̶ ̶̶i̶̶s̶̶ ̶̶n̶̶e̶̶c̶̶e̶̶s̶̶s̶̶a̶̶r̶̶y̶̶ ̶̶!̶̶!̶̶!̶̶!̶̶   
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
