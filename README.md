@@ -1,14 +1,4 @@
-<h1 align="center">
-  <span style="color: #90EE90; 
-              font-size: 1em;
-              letter-spacing: 1px;
-              font-weight: 500;
-              display: inline-block;
-              padding: 0 10px;">
-   01101000  01101001  01110111  01100101  01101100  01100011  01101111  01101101  01100101👋 &nbsp; 
-  </span>
-</h1
- <br/><br/>  
+
 <pre style="text-align: center; color: #ecf0f1; background-color: #2c3e50; padding: 20px; border-radius: 8px; font-family: 'Courier New', monospace; line-height: 1.2;">
 <code style="color: #3498db;">
 
@@ -38,7 +28,18 @@
                                        
 
 >
- 
+>
+ <h1 align="center">
+  <span style="color: #90EE90; 
+              font-size: 1em;
+              letter-spacing: 1px;
+              font-weight: 500;
+              display: inline-block;
+              padding: 0 10px;">
+   01101000  01101001  01110111  01100101  01101100  01100011  01101111  01101101  01100101👋 &nbsp; 
+  </span>
+</h1
+ <br/><br/>  
   
   <br/><br/><br/>
 <p align="center">
