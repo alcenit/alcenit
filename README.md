@@ -15,7 +15,7 @@
  
 
 
-<pre style="text-align: center;"><code>
+<pre style="text-align: center;font-size: 0.5em;"><code>
                                            d1b          d2b                                                d3b            888 
                                            Y1P          Y2P                                                Y3P            888 
                                                                                                                           888 
